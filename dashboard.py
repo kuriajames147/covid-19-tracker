@@ -66,11 +66,11 @@ st.pyplot(fig)
 # Summary Insights
 st.markdown("### 🧠 Key Insights")
 if selected_country == "United States":
-    st.markdown("- 🇺🇸 USA had the highest total cases and deaths throughout the pandemic.")
+    st.markdown("-  USA had the highest total cases and deaths throughout the pandemic.")
 elif selected_country == "India":
-    st.markdown("- 🇮🇳 India experienced sharp waves in 2021 with a fast vaccination rollout.")
+    st.markdown("-  India experienced sharp waves in 2021 with a fast vaccination rollout.")
 elif selected_country == "Kenya":
-    st.markdown("- 🇰🇪 Kenya had relatively lower cases and deaths, but slow vaccination progress.")
+    st.markdown("-  Kenya had relatively lower cases and deaths, but slow vaccination progress.")
 
 # Footer
 st.markdown("---")
